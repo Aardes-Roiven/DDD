@@ -22,11 +22,3 @@ Documentation: Explore the PayPal REST API documentation to learn about payment 
 # Binance Pay API
 Overview: Binance Pay provides a seamless way to accept cryptocurrency payments.
 Documentation: Visit the Binance Pay API documentation for details on integrating Binance Pay into your application.
-
-# Sections to Include
-Introduction: Briefly introduce LeadsCalendar and its purpose.
-Getting Started: Provide step-by-step instructions for setting up the project.
-API Integration Guides: Detailed explanations, code samples, and configurations for integrating each API.
-Examples: Showcase real-world examples of how LeadsCalendar works.
-Troubleshooting: Address common issues and solutions.
-Contributing: Encourage contributions and provide guidelines for developers.
